@@ -1,37 +1,67 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+<head>
+  <title>The Tea Cozy</title>
+  <link rel="stylesheet" href="style.css" type="text/css" />
+  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<link rel="icon" href="/favicon.ico" type="image/x-icon">
+</head>
+  <body>
+    <div class="main">
+    <nav class="container">
+      <ul>
+        <li>Store</li>
+        <li>Hours</li>
+        <li>Wholesale</li>
+      </ul>
+    </nav>
+    <img src="https://www.dropbox.com/s/oqap6va258mz56s/img-bedford-bizarre.jpg?raw=1" />
+  </div>
 
-You can use the [editor on GitHub](https://github.com/80Duce/my-website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+  <div class="container supporting">
+    <img src="https://www.dropbox.com/s/oqap6va258mz56s/img-bedford-bizarre.jpg?raw=1" />
+    <div class="description">
+      <h2>Great coffee does not happen by accident.</h2>
+      <p>We work side by side with farmers around the world to strengthen farming practices to cultivate the best coffee beans in the world. Then, we train our baristas in the sacred art of the brew process, yielding the most flavorful coffee you’ve ever tasted.
+      </p>
+      <p>Tsunami Coffee is certified organic and fair trade.</p>
+    </div>
+  </div>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+  <div class="rating">
+    <div class="container">
+      <h1>9.4/10: A rush of flavors. Absolutely divine.</h1>
+      <p>~ Coffee Critic</p>
+    </div>
+  </div>
 
-### Markdown
+  <div class="container gallery">
+    <img src="https://www.dropbox.com/s/oqap6va258mz56s/img-bedford-bizarre.jpg?raw=1" />
+    <img src="https://content.codecademy.com/courses/freelance-1/unit-5/tsunami-coffee/images/coffee-man.png" />
+    <img src="https://content.codecademy.com/courses/freelance-1/unit-5/tsunami-coffee/images/pastries.png" />
+    <div class="clearfix"></div>
+  </div>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+  <div class="container location">
+    <img src="https://content.codecademy.com/courses/freelance-1/unit-5/tsunami-coffee/images/map.png" />
+    <h1>Brewed with love in San Francisco.</h1>
+  </div>
 
-```markdown
-Syntax highlighted code block
+  <footer>
+    <div class="container">
+      <div class="copyright">
+        &copy; Tsunami Coffee
+      </div>
 
-# Header 1
-## Header 2
-### Header 3
+      <nav>
+        <ul>
+          <li>Store</li>
+          <li>Hours</li>
+          <li>Wholesale</li>
+        </ul>
+      </nav>
+    </div>
+  </footer>
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/80Duce/my-website/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+    
+  </body>
